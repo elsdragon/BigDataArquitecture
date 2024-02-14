@@ -1,6 +1,19 @@
 # BigDataArquitecture
 ## Practica Big Data Arquitecture
 
+Archivo practicaArquitecturaLucy.pdf
+
+Archivo del diagrama: diagrama_karate.jpg
+
+Archivo de la descarga del crawler: karate.csv
+
+Enlaces a los Google Colab que aparacen en el archivo de la práctica:
+
+Crawler:
+https://colab.research.google.com/drive/12_KeV4YOnhDpJBXpnsVL-aA-GqVkdepJ?usp=sharing
+
+Comprobaciones de conexión y queries en MongoDB:
+ https://colab.research.google.com/drive/1IMnxrNdfybYdbTO-02_dO8Q_T7BS06TU?usp=sharing
 ## Parte 1
 Un documento describiendo los procesos de diseño del DAaaS 
 
